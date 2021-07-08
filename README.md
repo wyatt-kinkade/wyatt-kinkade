@@ -11,5 +11,3 @@ Examples:
 - https://github.com/wyatt-kinkade/public-personal-repos
 
 2. Ansible Playbooks for networking, primarily for Cisco ASA and IOS, I don't know what I will share and what I won't given that I expect to need to sanitize anything I use in my personal environment.
-
-3. Kickstart/Preseed Files, PXE is an old and lazy way to configure things, but it works, I don't intend to fuss with this stuff much aside from well sanitation, although I might leverage ansible playbooks to template these.
