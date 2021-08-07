@@ -10,4 +10,7 @@ Examples:
 - https://github.com/wyatt-kinkade/CDPPi
 - https://github.com/wyatt-kinkade/public-personal-repos
 
-2. Ansible Playbooks for networking, primarily for Cisco ASA and IOS, I don't know what I will share and what I won't given that I expect to need to sanitize anything I use in my personal environment.
+2. Ansible Playbooks for networking, in theory primarily for Cisco ASA and IOS, but honestly I'll also likely have a good amount of Windows, Linux, and VMWare in here I don't know what I will share and what I won't given that I expect to need to sanitize anything I use in my personal environment.
+
+Examples:
+- https://github.com/wyatt-kinkade/ansible-public
